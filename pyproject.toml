@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "qa-test-library"
-version = "0.1.11"
+version = "0.1.12"
 description = "QA test fixture: simple Python library for agent-coder integration tests"
 authors = []
 readme = "README.md"
